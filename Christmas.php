@@ -24,7 +24,7 @@
       </a-entity>
     </a-marker>
 
-    <a-marker type='pattern' url='https://raw.githubusercontent.com/AgnieszkaGlisz/Ar.js/main/qr.patt'>
+    <a-marker type='pattern' url='https://raw.githubusercontent.com/AgnieszkaGlisz/Ar.js/main/red.patt'>
       <a-entity 
         position="0 0 0" 
         scale="1 1 1"
