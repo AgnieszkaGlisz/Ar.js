@@ -15,6 +15,7 @@
       gltf-model="https://raw.githubusercontent.com/AgnieszkaGlisz/Ar.js/main/model/iPod.gltf">
     </a-entity>
     -->
+
     <a-marker type='pattern' url='https://raw.githubusercontent.com/AgnieszkaGlisz/Ar.js/main/hiro.patt'>
       <a-entity 
         position="0 0 0" 
@@ -22,6 +23,15 @@
         gltf-model="https://raw.githubusercontent.com/AgnieszkaGlisz/Ar.js/main/tree/XMas_Flint_01.glb"
       </a-entity>
     </a-marker>
+
+    <a-marker type='pattern' url='https://raw.githubusercontent.com/AgnieszkaGlisz/Ar.js/main/test.patt'>
+      <a-entity 
+        position="0 0 0" 
+        scale="1 1 1"
+        gltf-model="https://raw.githubusercontent.com/AgnieszkaGlisz/Ar.js/main/tree/XMas_Flint_01.glb"
+      </a-entity>
+    </a-marker>
+
       <a-entity camera></a-entity>
     </a-scene>
   </body>
